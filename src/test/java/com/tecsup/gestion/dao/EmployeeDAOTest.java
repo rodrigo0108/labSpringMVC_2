@@ -68,7 +68,7 @@ public class EmployeeDAOTest {
 		}
 
 	}
-
+/*
 //	@Test
 	public void testFindAllEmployees() {
 
@@ -88,7 +88,7 @@ public class EmployeeDAOTest {
 
 		
 	}
-
+*//*
 	@Test
 	public void testFindEmployeeByLogin() {
 
@@ -217,7 +217,7 @@ public class EmployeeDAOTest {
 		}
 
 	}
-	
+	*/
 	@After
 	public void after() {
 		logger.info("Despues de cada metodo");
